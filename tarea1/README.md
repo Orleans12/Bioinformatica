@@ -20,12 +20,12 @@ Number of columns: 80
 
 Escriba un script que imprima el número de filas y columnas de cada red
 
-$bash netsize_all.sh
-../data/Saavedra2013/n10.txt 14 20
-../data/Saavedra2013/n11.txt 270 91
-../data/Saavedra2013/n12.txt 7 72
-../data/Saavedra2013/n13.txt 61 17
-...
+`$bash netsize_all.sh`
+`../data/Saavedra2013/n10.txt 14 20`
+`../data/Saavedra2013/n11.txt 270 91`
+`../data/Saavedra2013/n12.txt 7 72`
+`../data/Saavedra2013/n13.txt 61 17`
+`...`
 
 ### Ejercicio 3
 ¿Qué archivo tiene el mayor número de filas? ¿Cuál tiene el mayor número de columnas?
