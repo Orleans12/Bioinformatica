@@ -11,10 +11,13 @@ las columnas las plantas, un 0 indica la ausencia y un 1 la presencia de una int
 Escriba un script que tome uno de estos archivos y determine el número de filas (polinizadores) y columnas (plantas). 
 Tenga en cuenta que las columnas están separadas por espacios y que hay un espacio al final de cada línea. Su script debe devolver:
 
-$bashnetsize.sh ../data/Saavedra2013/n1.txt
-Filename: ../data/Saavedra2013/n1.txt
-Number of rows: 97
-Number of columns: 80
+`$bashnetsize.sh ../data/Saavedra2013/n1.txt`
+
+`Filename: ../data/Saavedra2013/n1.txt`
+
+`Number of rows: 97`
+
+`Number of columns: 80`
 
 ### Ejercicio 2
 
