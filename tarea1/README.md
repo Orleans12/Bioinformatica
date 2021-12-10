@@ -2,7 +2,8 @@
 Bioinformatica codes
 ## Plant-Pollinators Networks
 
-[La data de Saavedra y Stouffer puede encontrarse en](http://dx.doi.org/10.5061/dryad.p2gq8)
+[Data de Saavedra y Stouffer puede encontrarse](http://dx.doi.org/10.5061/dryad.p2gq8)
+
 Saavedra y Stouffer (2013) estudiaron varias redes planta-polinizador, que pueden representarse como matrices rectangularesen las que las filas son los polinizadores,
 las columnas las plantas, un 0 indica la ausencia y un 1 la presencia de una interacción entre la planta y el polinizador.
 
