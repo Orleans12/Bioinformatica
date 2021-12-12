@@ -2,9 +2,9 @@
 #Para obtener los datos de las columnas y filas de todos los datos de
 #Saavedra2013 utilicé un el loop for, re utilicé el comando de netsize.sh
 #y añadí al loop que presento ahora:
-$ for data in *.txt; do awk 'BEGIN{}END{print "COLUMN NO: "NF " ROWS NO: "NR}' $data; done > netsize_all.txt
+for data in *.txt; do awk 'BEGIN{}END{print "COLUMN NO: "NF " ROWS NO: "NR}' $data; done > netsize_all.txt
 #abro el loop for, defino los archivos que usaré, en este caso son todos los .txt
 #separo las partes del loop con ";" e implanto el código anterior, defino el tipo de data con $data
 #cierro el loop con done
 
-$ cat netsize_all.txt  #visualizo el resultado
+cat netsize_all.txt  #visualizo el resultado
