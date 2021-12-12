@@ -1,20 +1,14 @@
 #EJERCICIO 1
 
-#Primero se debe navegar y cmbiar de directorio
-
-#hasta llegar a los datos de Saavedra2013
+#Primero se debe navegar y cmbiar de directorio hasta llegar a los datos de Saavedra2013
 
 #Para obtener las columnas y filas se usó el siguiente código
 
 awk 'BEGIN{}END{print "COLUMN NO: "NF " ROWS NO: "NR}' n1.txt > netsize.txt
 
-#uso awk porque permite manipular archivos de texto
+#uso awk porque permite manipular archivos de texto ya que separa la información en columnas, considerando cada item una columna
 
-#ya que separa la información en columnas, considerando cada item
-
-#una columna, con BEGIN and END creo el rango para que cuente las filas y columnas
-
-#el resto del código me imprime el número de campos de las filas y columnas
+#con BEGIN and END creo el rango para que cuente las filas y columnas el resto del código me imprime el número de campos de las filas y columnas
 
 #ignorando los separadores
 
