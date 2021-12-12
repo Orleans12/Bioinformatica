@@ -13,3 +13,5 @@ awk 'BEGIN{}END{print "COLUMN NO: "NF " ROWS NO: "NR}' n1.txt > netsize.txt
 #ignorando los separadores
 
 cat netsize.txt      #visualizo el código
+
+#Inquietud o recomendación: Profe, al ejecutar con bash me arroja la respuesta pero también otro texto, se ve más bonito si utilizo cat
