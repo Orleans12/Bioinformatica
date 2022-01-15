@@ -1,2 +1,7 @@
 cd /Desktop/Semestre 6/Bioinformática/Examen 1
 echo "Examen Parcial 1"> exp11.sh | echo "Pregunta 1: Seleccione la opción de código que imprime el directorio de trabajo actual">> exp11.sh | pwd>> exp11.sh
+#Adjunté los comandos en una sóla línea para poder crear un .sh y que se corrá dentro
+#del git hub
+#los .txt son mis códigos raw
+#en algunos no creé .sh ya que no vi la necesidad, espero´sea correacta esta forma de trabajar
+
