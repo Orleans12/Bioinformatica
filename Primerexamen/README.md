@@ -1,6 +1,8 @@
 #Examen de Primer Parcial - Bioinformática
+
 ##Universidad Reional Amazónica IKIAM 
 Se resolverá cada pregunta propuesta desde la plataforma Bush, Python y Atom
+
 ##Aclaraciones
 Resolví sin haber sincronizado mi cuenta de git hub a Atom, resolviendo las primeras preguntas
 sin embargo me precaté de eso y realicé mi control de version, configrando todo desde bush
