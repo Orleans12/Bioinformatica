@@ -1,0 +1,2 @@
+cd /Desktop/Semestre 6/Bioinformática/Examen 1
+echo "Examen Parcial 1"> exp11.sh | echo "Pregunta 1: Seleccione la opción de código que imprime el directorio de trabajo actual">> exp11.sh | pwd>> exp11.sh
