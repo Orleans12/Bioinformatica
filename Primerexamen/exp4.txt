@@ -1,0 +1,8 @@
+mv Marra2014_data.fasta ../sandbox
+wc Marra2014_data.fasta
+cp Marra2014_data.fasta my_file.fasta
+grep isogroup00036 my_file.fasta | wc -l | tr -s "  " | tr " " "," 
+uniq my_file.fasta | wc -l
+grep numreads my_file.fasta | tr -s "  " | tr " " "," | cut -d "," -f 1,3 | sort -r -n -k 3
+
+
