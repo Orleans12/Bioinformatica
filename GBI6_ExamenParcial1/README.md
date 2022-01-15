@@ -1,5 +1,21 @@
 # Examen de Primer Parcial - Bioinformática
 
+## Vicente Quezada García
+
+## Propiedades del computador
+
+Intel Core i7-4500U CPU 1.80Ghz 2.40 Ghz
+
+4 Gb de RAM
+
+## Programas utilizados
+
+Git buash
+
+Jupyter
+
+Visual Code
+
 ## Universidad Reional Amazónica IKIAM 
 Se resolverá cada pregunta propuesta desde la plataforma Bush, Python y Atom
 
